@@ -1,0 +1,13 @@
+header{
+	width: 100%;
+	height: 649px;
+	background-image: url(../img/header-bg-desktop.png);
+	background-size: cover;
+	
+
+}
+.header-top{
+	padding: 40px;
+	
+	
+}
